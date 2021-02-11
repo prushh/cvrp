@@ -1,0 +1,34 @@
+{
+    "openFiles": [
+        "pr01.dzn",
+        "pr02.dzn",
+        "pr03.dzn",
+        "pr04.dzn",
+        "pr05.dzn",
+        "pr06.dzn",
+        "pr07.dzn",
+        "pr08.dzn",
+        "pr09.dzn",
+        "pr10.dzn",
+        "pr11.dzn",
+        "cvrp.mzn"
+    ],
+    "openTab": 11,
+    "projectFiles": [
+        "cvrp.mzn",
+        "pr01.dzn",
+        "pr02.dzn",
+        "pr03.dzn",
+        "pr04.dzn",
+        "pr05.dzn",
+        "pr06.dzn",
+        "pr07.dzn",
+        "pr08.dzn",
+        "pr09.dzn",
+        "pr10.dzn",
+        "pr11.dzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}
