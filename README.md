@@ -38,7 +38,7 @@ Modeling and solving the vehicle routing problem in MiniZinc (using the MiniZinc
 
 ## Developers
 
-* Cotugno Giosuè
+* [Cotugno Giosuè](https://github.com/cotus997)
 * [Pruscini Davide](https://github.com/prushh/)
 
 ## Setup
