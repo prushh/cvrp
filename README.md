@@ -4,7 +4,7 @@ Project for the "Decision Making of Constraint Programming" course, University o
 
 ## Assignment
 
-ModelLing and solving the vehicle routing problem in MiniZinc (using the MiniZinc IDE or the Python API) with Gecode.
+Modelling and solving the vehicle routing problem in MiniZinc (using the MiniZinc IDE or the Python API) with Gecode.
 
 * Given:
   * a setof customers, each with a:
